@@ -23,7 +23,7 @@
 <a href="https://moonshot.scaler.com/s/li/RYKg8lwmnN" ><img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg" /></a>
 <a href="https://www.udemy.com/certificate/UC-8c1f4f28-0c4c-464a-8f05-cea88b98ef80/" ><img src="https://www.vectorlogo.zone/logos/java/java-horizontal.svg" /></a>
 <a href="https://edu.gtf.pt/admin/tool/certificate/view.php?code=8603530965SN" ><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"/><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21~old.svg"/><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"/></a>
-<a href="https://trainings.internshala.com/s/v/2052619/a0f3b8b0" ><img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"/><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"/></a>
+<a href="https://trainings.internshala.com/s/v/2052619/a0f3b8b0" ><img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"/></a> <a href="https://edu.gtf.pt/admin/tool/certificate/view.php?code=8603530965SN"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"/></a>
 <a href="https://www.credly.com/badges/a6946022-547a-46ab-a4f3-d059d5f35301/linked_in_profile" ><img src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg"/></a>
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
