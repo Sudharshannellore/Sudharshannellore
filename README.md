@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **React, Spring Boot, Java, SQL**
 
-- 📫 How to reach me **sudharshannellore123@gmail.com**
+- 📫 How to reach me **sudharshannellore@gmail.com**
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
