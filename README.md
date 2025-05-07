@@ -6,9 +6,9 @@
 
 - 👯 I’m looking to collaborate on **Full Stack Projects**
 
-- 🤝 I’m looking for help with **Frontend, Backend, Database**
+- 🤝 I’m looking for help with **Frontend Development, Backend Development, Database Design, Data Analysis**
 
-- 💬 Ask me about **React, Spring Boot, Java, SQL**
+- 💬 Ask me about **Java, React, Spring Boot, MySQL, Node.js(express.js), MongoDB**
 
 - 📫 How to reach me **sudharshannellore@gmail.com**
  
@@ -18,7 +18,7 @@
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
 <h3 align="left"> 💻 Tech Stack: </h3>
-<p align="left"> <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg"/> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"/> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21~old.svg"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"/> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"/> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"/> <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"/> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"/> <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-ar21.svg"/> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-ar21.svg"/> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"/><img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"/><img src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"/><img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg"/><img src="https://www.vectorlogo.zone/logos/eclipse_che/eclipse_che-icon.svg"/></p>
+<p align="left"> <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg"/> <img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"/> <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21~old.svg"/> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-ar21.svg"/> <img src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"/> <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"/> <img src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"/> <img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"/> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"/> <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"/>  <img src="https://www.vectorlogo.zone/logos/apache_maven/apache_maven-ar21.svg"/> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-ar21.svg"/> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"/><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"/><img src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"/><img src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"/></p>
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
@@ -28,6 +28,7 @@
 <a href="https://edu.gtf.pt/admin/tool/certificate/view.php?code=8603530965SN" ><img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"/><img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21~old.svg"/><img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"/></a>
 <a href="https://trainings.internshala.com/s/v/2052619/a0f3b8b0" ><img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg"/></a> <a href="https://edu.gtf.pt/admin/tool/certificate/view.php?code=8603530965SN"><img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"/></a>
 <a href="https://www.credly.com/badges/a6946022-547a-46ab-a4f3-d059d5f35301/linked_in_profile" ><img src="https://www.vectorlogo.zone/logos/cisco/cisco-ar21.svg"/></a>
+  <a href="https://moonshot.scaler.com/s/sl/G5Kpuq7wji?_gl=1*19jtsp0*FPAU*MTIwMjQyMjUxMy4xNzQ0Mzc5MTQw*_ga*Nzg0MDM3MjAxLjE3NDQzNzkxMzg.*_ga_53S71ZZG1X*czE3NDYyODA4NDgkbzMkZzEkdDE3NDYyODIwMzAkajAkbDAkaDc0NjA3OTQ3"><img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"/></a>
 <p align="left">
   <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" 
 </p>
