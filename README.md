@@ -46,9 +46,6 @@
       <img src="https://visitor-badge.laobi.icu/badge?page_id=Sudharshannellore.Sudharshannellore" alt="visitors">
     </p>
     <p>
-      <img src="https://github-profile-trophy.vercel.app/?username=Sudharshannellore&row=1&column=6&margin-h=8&theme=darkhub&margin-w=15&no-frame=true" alt="trophies">
-    </p>
-    <p>
       <img src="https://github-readme-stats.vercel.app/api?username=Sudharshannellore&show_icons=true&theme=github_dark&count_private=true" alt="github stats">
     </p>
     <p>
