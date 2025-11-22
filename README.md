@@ -8,7 +8,6 @@
   <section>
     <h2>💫 About Me</h2>
     <ul>
-      <li>🌱 I’m currently learning <strong>Artificial Intelligence</strong></li>
       <li>👯 I’m looking to collaborate on Full Stack Projects</li>
       <li>👨‍💻 My Personal Website <a href="https://sudharshannellore.github.io/sudharshan/" target="_blank" style="color: #61dafb;">sudharshan.me</a></li>
       <li>💬 Ask me about <strong>Java, React, Spring Boot, MySQL, Node.js(express.js), MongoDB</strong></li>
@@ -21,9 +20,7 @@
   <section>
     <h2>💻 Tech Stack</h2>
     <p>
-      <img src="https://img.shields.io/badge/java-%2320232a.svg?style=for-the-badge&logo=java&logoColor=%2361DA" alt="Java">
       <img src="https://img.shields.io/badge/MySQL-%2320232a.svg?style=for-the-badge&logo=MySQL&logoColor=%2361DAF" alt="MySQL">
-      <img src="https://img.shields.io/badge/SpringBoot-%2320232a.svg?style=for-the-badge&logo=SpringBoot&logoColor=%g" alt="SpringBoot">
       <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
       <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
       <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
