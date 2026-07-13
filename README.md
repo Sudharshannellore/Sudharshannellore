@@ -1,56 +1,168 @@
+# Hi there 👋 I'm Sudharshan Rao Nellore
 
-<body style="font-family: Arial, sans-serif; background-color: #0D1117; color: white; padding: 20px;">
+### Backend-Focused Full Stack Developer | SaaS Engineer | AI Workflow Builder
 
-<h1 align="center">Hi 👋, I'm sudharshan</h1>
-<h3 align="center">Full Stack Developer | Scalable & Secure Web Solutions | Technology Enthusiast | Continuous Learner | Open to Opportunities</h3>
+I'm a backend-focused full stack developer passionate about building scalable SaaS applications, secure APIs, and AI-powered solutions. I enjoy designing production-ready systems with clean architecture, modern backend technologies, and intuitive user experiences.
 
-  <!-- About Me -->
-  <section>
-    <h2>💫 About Me</h2>
-    <ul>
-      <li>👯 I’m looking to collaborate on Full Stack Projects</li>
-      <li>👨‍💻 My Personal Website <a href="https://sudharshannellore.github.io/sudharshan/" target="_blank" style="color: #61dafb;">sudharshan.me</a></li>
-      <li>💬 Ask me about <strong>Java, React, Spring Boot, MySQL, Node.js(express.js), MongoDB</strong></li>
-      <li>📫 Say Hi via <a href="mailto:sudharshannellore@gmail.com" style="color: #61dafb;">sudharshannellore@gmail.com</a></li>
-    </ul>
-  </section>
+- 🔭 Currently building scalable SaaS and AI-powered applications
+- 🌱 Exploring AI Agents, LangGraph, MCP, and cloud-native architectures
+- 💼 Backend Developer @ Codinglimits
+- 🤝 Open to Backend, Full Stack, and AI Engineering opportunities
+- 💬 Ask me about **NestJS, Node.js, React, MongoDB, REST APIs, JWT, OAuth, OpenAI**
+- 📫 Reach me at **sudharshannellore123@gmail.com**
 
-<hr>
-  <!-- Tech Stack -->
-  <section>
-    <h2>💻 Tech Stack</h2>
-    <p>
-      <img src="https://img.shields.io/badge/MySQL-%2320232a.svg?style=for-the-badge&logo=MySQL&logoColor=%2361DAF" alt="MySQL">
-      <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React">
-      <img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux">
-      <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
-      <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB" alt="Express.js">
-      <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens" alt="JWT">
-      <img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-      <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
-      <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
-      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
-      <img src="https://img.shields.io/badge/Microsoft%20Excel-%2320232a.svg?style=for-the-badge&logo=Microsoft%20Excel&logoColor=%2361DA" alt="Excel">
-      <img src="https://img.shields.io/badge/Tabelau-%2320232a.svg?style=for-the-badge&logo=Tabelau&logoColor=%2361DA" alt="Postman">
-    </p>
-  </section>
-<hr>
+---
 
-  <!-- GitHub Stats -->
-  <section>
-    <h2>📊 GitHub Stats</h2>
-    <p>
-      <img src="https://visitor-badge.laobi.icu/badge?page_id=Sudharshannellore.Sudharshannellore" alt="visitors">
-    </p>
-    <p>
-      <img src="https://github-readme-stats.vercel.app/api?username=Sudharshannellore&show_icons=true&theme=github_dark&count_private=true" alt="github stats">
-    </p>
-    <p>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudharshannellore&layout=compact&theme=github_dark&langs_count=8" alt="langs">
-    </p>
-    <p>
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sudharshannellore&custom_title=Sudharshannellore's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true" alt="activity graph">
-    </p>
-  </section>
+## 🚀 Professional Summary
 
-</body>
+Backend-Focused Full Stack Developer with experience building scalable SaaS platforms using **NestJS**, **Node.js**, and **MongoDB**.
+
+Experienced in developing production-grade backend systems including:
+
+- 🔐 Authentication (JWT & OAuth 2.0)
+- 👥 Role-Based Access Control (RBAC)
+- 💳 Subscription & Credit-Based Billing
+- 🤖 AI-powered workflows with OpenAI & LangGraph
+- ⚡ High-performance REST APIs
+- 🧩 Clean Architecture & Scalable Backend Design
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+
+### Backend
+
+![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
+![REST API](https://img.shields.io/badge/REST-005571?style=for-the-badge)
+
+### Database
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+
+### Authentication & Payments
+
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens)
+![OAuth](https://img.shields.io/badge/OAuth%202.0-4285F4?style=for-the-badge)
+![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay)
+
+### AI & SaaS
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai)
+![LangGraph](https://img.shields.io/badge/LangGraph-121212?style=for-the-badge)
+
+### Tools
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel)
+![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge)
+
+---
+
+# 💼 Experience
+
+## Backend Developer — Codinglimits
+
+**Nov 2025 – May 2026**
+
+- 🚀 Promoted from Intern to Full-Time based on performance
+- ⚙️ Built scalable backend services using NestJS & MongoDB
+- 🔐 Implemented JWT, OAuth (Google & LinkedIn), and RBAC
+- 💳 Developed subscription billing & credit-based usage systems
+- 🤖 Built AI-powered workflows with LangGraph & OpenAI APIs
+
+---
+
+# 🚀 Featured Projects
+
+## 💇 Luxe Hair
+
+Appointment booking platform built with the MERN stack.
+
+**Highlights**
+
+- Appointment scheduling
+- Online & COD payments
+- Admin dashboard
+- Staff & service management
+- Secure authentication
+- RBAC
+
+---
+
+## 🛒 Local Bazaar
+
+Multi-vendor marketplace built with MERN.
+
+**Highlights**
+
+- Vendor onboarding
+- Real-time order tracking
+- Socket.IO integration
+- Payment workflows
+- Scalable backend APIs
+
+---
+
+# 🏆 Certifications
+
+- React JS — Scaler
+- Node JS — Scaler
+- Web Development — IMTF
+- SQL — Internshala
+
+---
+
+# 🏅 Achievement
+
+🏆 Winner — Technical Quiz conducted by IETE
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Sudharshannellore&show_icons=true&theme=github_dark&count_private=true" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudharshannellore&layout=compact&theme=github_dark"/>
+
+</p>
+
+---
+
+# 📊 Contribution Graph
+
+[![Sudharshan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sudharshannellore&theme=github-compact)](https://github.com/Sudharshannellore)
+
+---
+
+# 🤝 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/sudharshannellore)
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/Sudharshannellore)
+
+📧 **sudharshannellore123@gmail.com**
+
+---
+
+⭐ *Thanks for visiting my profile! Feel free to connect or collaborate on exciting projects.*
