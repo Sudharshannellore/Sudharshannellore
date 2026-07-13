@@ -137,18 +137,6 @@ Multi-vendor marketplace built with MERN.
 
 ---
 
-# 📈 GitHub Stats
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Sudharshannellore&show_icons=true&theme=github_dark&count_private=true" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudharshannellore&layout=compact&theme=github_dark"/>
-
-</p>
-
----
-
 # 📊 Contribution Graph
 
 [![Sudharshan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Sudharshannellore&theme=github-compact)](https://github.com/Sudharshannellore)
