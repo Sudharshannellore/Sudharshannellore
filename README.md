@@ -218,10 +218,8 @@ Building scalable SaaS platforms, AI-powered applications, and production-ready 
 
 ## 🐍 Contribution Snake
 
-> **Enable the GitHub Action first**, then this animation will appear automatically.
-
 <p align="center">
-<img src="https://raw.githubusercontent.com/Sudharshannellore/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Sudharshannellore/Sudharshannellore/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
